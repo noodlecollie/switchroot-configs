@@ -1,0 +1,30 @@
+Determined using jstest-gtk
+SL and SR for both controllers are not available
+
+
+Left thumb X: Axis 0
+Left thumb Y: Axis 1
+Right thumb X: Axis 2
+Right thumb Y: Axis 3
+
+Left D-pad up: Button 14
+Left D-pad down: Button 15
+Left D-pad left: Button 16
+Left D-pad right: Button 17
+
+Right A: Button 1
+Right B: Button 0
+Right X: Button 2
+Right Y: Button 3
+
+Right trigger: Button 8
+Right shoulder: Button 6
+Right +: Button 10
+Right Home: Button 11
+Right thumbstick: Button 13
+
+Left trigger: Button 7
+Left shoulder: Button 5
+Left -: Button 9
+Left Screenshot: Button 4
+Left thumbstick: Button 12

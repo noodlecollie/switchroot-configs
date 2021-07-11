@@ -1,0 +1,10 @@
+Key codes (determined using xev):
+
+Tab: 23
+Left arrow: 113
+Right arrow: 114
+Up arrow: 111
+Down arrow: 116
+Backspace: 22
+Home: 110
+End: 115
